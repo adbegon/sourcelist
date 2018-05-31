@@ -16,6 +16,7 @@ https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.t
 https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
 https://www.malwaredomainlist.com/hostslist/hosts.txt
 https://mirror.cedia.org.ec/malwaredomains/justdomains
+https://raw.githubusercontent.com/sononum/abloprox/master/analytics.txt
 https://zinc.tpnfc.us/spot.txt
 https://zinc.tpnfc.us/pandora.txt
 https://zinc.tpnfc.us/misc.txt
