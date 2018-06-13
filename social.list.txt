@@ -1,0 +1,2 @@
+#Social
+https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/social-hosts

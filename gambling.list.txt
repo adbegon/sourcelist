@@ -1,0 +1,2 @@
+#Gambling
+https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts
